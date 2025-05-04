@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-# **Client-Server Chat Application Using Java**
+# **Client-Server Chat Application**
 
 For our networking project, we developed a simple client-server chat application using Java Sockets and multithreading. The purpose of this project was to understand how network communication works, and how multiple users can interact with each other in real time through a common server. We built the project using Java in a basic code editor like Notepad, and ran the code from the command line. This helped us learn how Java handles networking, threads, and input/output streams.
 
